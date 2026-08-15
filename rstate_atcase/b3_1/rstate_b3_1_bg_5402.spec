@@ -1,0 +1,1 @@
+../../.git/annex/objects/Fj/Kq/MD5E-s2960--5f8adf43378fcc1b2f94805dad7e56eb.spec/MD5E-s2960--5f8adf43378fcc1b2f94805dad7e56eb.spec

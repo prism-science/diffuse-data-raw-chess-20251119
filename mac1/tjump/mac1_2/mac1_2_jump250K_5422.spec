@@ -1,0 +1,1 @@
+../../../.git/annex/objects/ZG/8G/MD5E-s4872--d580c457f7ad4fe8ea53ee74e987dfe6.spec/MD5E-s4872--d580c457f7ad4fe8ea53ee74e987dfe6.spec

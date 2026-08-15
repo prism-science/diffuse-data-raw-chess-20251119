@@ -1,0 +1,1 @@
+../../../.git/annex/objects/Gm/wQ/MD5E-s7259--052ea9af76533a32221b2bee9eb7fb08.spec/MD5E-s7259--052ea9af76533a32221b2bee9eb7fb08.spec
